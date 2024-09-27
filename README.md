@@ -1,4 +1,6 @@
 # LENGUAJES DE PROGRAMACION
 
-## Docente
+## Docente: GASTON GENERO QUELALI CALCINA
+
+## Integrantes:
 
